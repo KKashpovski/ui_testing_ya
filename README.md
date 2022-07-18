@@ -1,3 +1,5 @@
+[![CI](https://github.com/KKashpovski/ui_testing_ya/actions/workflows/main.yml/badge.svg)](https://github.com/KKashpovski/ui_testing_ya/actions/workflows/main.yml)
+
 # Тестирование Яндекс Диск
 ***
 ### Владелец компонента
